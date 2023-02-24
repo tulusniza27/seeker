@@ -31,12 +31,12 @@ sudo pacman -S seeker
 ### Docker
 
 ```bash
-docker pull thewhiteh4t/seeker
+docker pull tulusniza27/seeker
 ```
 
 ### OSX
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone https://github.com/tulusniza27/seeker.git
 cd seeker/
 python3 seeker.py
 ````
